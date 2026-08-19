@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "242511635900",
+    "project_id": "smartroute-ai-ae0d5",
+    "storage_bucket": "smartroute-ai-ae0d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242511635900:android:f1eb171a8d609271b437b9",
+        "android_client_info": {
+          "package_name": "com.example.smartroute_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242511635900-tu475uab0dmmp49lrqmtn8idcrgditdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartroute_ai",
+            "certificate_hash": "a9487133ef8cfa4ee29695810ddd9dac12bd8132"
+          }
+        },
+        {
+          "client_id": "242511635900-egtpasgaj7be30duolqlaabdlb6absji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_OjEgP1NduvLVn6rCjmTdS1NSs3cQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242511635900-egtpasgaj7be30duolqlaabdlb6absji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242511635900-s7if5hbq8uoisf8egqmjd0trfo6d878o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartrouteAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
